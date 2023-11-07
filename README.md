@@ -62,3 +62,13 @@ Os lançamentos continuam até que:
 - Todo usuário possui: E-mail (deve ser único, ou seja, não há mais de um usuário com o mesmo e-mail)
 - Permitir a criação de blogs
 - Permitir a utilização de blogs: qualquer usuário pode ler conteúdos; somente o dono do blog pode criar notas; somente usuários que marcam o Blog como favorito pode criar comentários; para criar um comentário o usuários precisa ler as notas; somente o dono do blog pode remover conteúdos; para remover um conteúdo ele precisará ler o conteúdo; caso ele remova um comentário, o autor do comentário deve ser notificado por e-mail.
+
+### Exercício 6 (em grupo) [:file_folder:](https://github.com/beatrizopdd/UFF_ProgOrientada/tree/master/src/main/java/uff/ic/lleme/tcc00328/exercicios/BeatrizPiedade/Exercicio06)
+
+> Criar um programa OO para interpretar e calcular uma expressão aritmética que pode conter variáveis e escrita em notação polonesa como, por exemplo, "2 _a * _b + _b *"; onde _a e _b são variáveis. Utilize os padrões de projeto Chain of Responsabilities, Visitor e Interpreter.
+
+Devem ser implementadas as seguintes funções:
+1) Transformar um string em uma representação orientada a objetos da expressão
+2) Inicialização das variáveis
+3) Listar variáveis
+4) Calcular valor da expressão
