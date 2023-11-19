@@ -1,5 +1,6 @@
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Observer\Observer.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Numero.class
+uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Determinante.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\PotenciacaoHandler.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Modelo\Conteudo.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Variavel.class
@@ -13,8 +14,10 @@ uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Operando
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Janela.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Janela.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\OperandoAdicao.class
+uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Matriz.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Modelo\Blog.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\MultiplicacaoHandler.class
+uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Sarrus.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\ParticulaHandler\OperandoHandler.class
 Provas\P1\Main.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\ParticulaHandler\VariavelHandler.class
@@ -29,6 +32,7 @@ uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\CalculadoraNPR.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\OperandoMultiplicacao.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio02\Exercicio02.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\DivisaoHandler.class
+uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Main.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Controle.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Visitor\Visitable.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\OperadorHandler.class
