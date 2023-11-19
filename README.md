@@ -76,4 +76,3 @@ Devem ser implementadas as seguintes funções:
 ### Exercício 10 [:file_folder:](https://github.com/beatrizopdd/UFF_ProgOrientada/tree/master/src/main/java/uff/ic/lleme/tcc00328/exercicios/BeatrizPiedade/Exercicio10)
 
 > Fazer um programa Java multi-thread para calcular o determinante de uma matriz.
->>>>>>> Stashed changes
