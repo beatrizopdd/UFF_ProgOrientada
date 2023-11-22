@@ -13,11 +13,16 @@ public class Main {
             Controle.preencheArrayList(colecao, i);
             colecoes.add(colecao);
         }
-        
-        for (ArrayList<Double> c: colecoes) {
-            Media thread = new Media(c);
+
+        ArrayList<Media> threads = new ArrayList();
+        for (ArrayList<Double> c: colecoes)
+            threads.add(new Media(c));
+
+        for (Media thread: threads)
             thread.start();
-        }
+
+        for (Media thread: threads)
+            thread.join();
         
     }   
     
