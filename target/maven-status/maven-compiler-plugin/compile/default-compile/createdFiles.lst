@@ -1,12 +1,13 @@
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Observer\Observer.class
 Provas\P2\Q1\Palavra.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Numero.class
+Provas\P2\Q1\Substantivo.class
+Provas\P2\Q1\Verbo.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Determinante.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\PotenciacaoHandler.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Modelo\Conteudo.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Variavel.class
 Estruturas\Arvore\ArvoreBinaria.class
-Provas\P2\Q2\Media.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\ParticulaHandler\ParticulaHandler.class
 Provas\P1\Item.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\AdicaoHandler.class
@@ -17,7 +18,6 @@ Provas\P2\Q1\Main.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\OperandoPotenciacao.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Janela.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Janela.class
-Provas\P2\Q2\Main.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\OperandoAdicao.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio10\Matriz.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio05\Modelo\Blog.class
@@ -53,7 +53,6 @@ uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Interpreter\Particul
 Estruturas\Arvore\Main.class
 Provas\P2\Q1\Controle.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio03\Exercicio03.class
-Provas\P2\Q2\Controle.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio04\Exercicio04.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Observer\AttCalculadora.class
 uff\ic\lleme\tcc00328\exercicios\BeatrizPiedade\Exercicio06\Handler\OperadorHandler\SubtracaoHandler.class

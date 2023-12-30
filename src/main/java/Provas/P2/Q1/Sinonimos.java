@@ -8,26 +8,16 @@ public class Sinonimos {
     private ArrayList<Palavra> palavras = new ArrayList();
     private String significado;
     
-    public Sinonimos() {
-    }
-    
     public Sinonimos(String significado) {
         this.significado = significado;
+    }
+    
+    // extras
+    public String getSignificado() {
+        return significado;
     }
     
     public void addPalavra(Palavra palavra) {
         palavras.add(palavra);
     }
-    
-    public String getSignificado() {
-        return significado;
-    }
-    
-    public void ler() {
-        System.out.println("'"+significado+"'");
-        for (Palavra palavra: palavras)
-            System.out.println("- " + palavra.getGrafia());
-        System.out.println();
-    }
-    
 }
