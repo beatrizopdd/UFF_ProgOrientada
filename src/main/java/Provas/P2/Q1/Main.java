@@ -21,6 +21,7 @@ public class Main {
         
         // incluir palavras a partir da classe Dicionário
         dicionario.incluir(g1, s1, f1);
+        dicionario.incluir(g1, s1, f1);
         dicionario.incluir(g2, s2, f2);
         dicionario.incluir(g3, s3, f3);
         
